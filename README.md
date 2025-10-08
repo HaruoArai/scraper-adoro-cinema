@@ -59,9 +59,9 @@ py scraper.py
 
 - Ao terminar, será gerado o arquivo: reviews_adorocinema_multifilmes.csv
 - Esse arquivo estará na mesma pasta do projeto e conterá todas as críticas coletadas, com as colunas:
-• **id** → número identificador da crítica;  
-• **nota** → avaliação atribuída pelo usuário (de 0 a 5);  
-• **texto** → conteúdo da crítica escrita;  
-• **rotulo** → classificação da crítica como positiva ou negativa, com base na nota.
+  -**id** → número identificador da crítica;  
+  -**nota** → avaliação atribuída pelo usuário (de 0 a 5);  
+  -**texto** → conteúdo da crítica escrita;  
+  -**rotulo** → classificação da crítica como positiva ou negativa, com base na nota.
 
 
