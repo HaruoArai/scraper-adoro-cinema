@@ -35,24 +35,23 @@ Este projeto realiza a raspagem de críticas de filmes do site [AdoroCinema](htt
 
 Abra o terminal do VS Code (`Ctrl + Shift + '` ou vá em **Terminal → Novo Terminal**) e siga os passos abaixo:
 
----
-
 #### a) Verifique se o Python está instalado
 
 ```bash
 py --version
-
----
+```
 
 #### b) Instale as bibliotecas necessárias
 
+```bash
 py -m pip install selenium pandas requests beautifulsoup4
-
----
+```
 
 #### c) Execute o programa
 
+```bash
 py scraper.py
+```
 
 ---
 
