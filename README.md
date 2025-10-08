@@ -1,24 +1,26 @@
-# AdoroCinema Scraper 🎬
+# 🎬 AdoroCinema Scraper 
 
 Este projeto realiza a raspagem de críticas de filmes do site AdoroCinema(https://www.adorocinema.com), classificando-as como **positivas** ou **negativas** com base na nota atribuída pelos usuários.
 
 ## 📦 Funcionalidades
 
-- Coleta automática de críticas de múltiplos filmes
-- Classificação de sentimento com base na nota
-- Exportação dos dados para CSV
-- Geração de embeddings com Sentence Transformers
-- Treinamento de modelo KNN com validação cruzada
+- Coleta automática de críticas de múltiplos filmes;
+- Extração de nota e texto da crítica;
+- Classificação de sentimento (positiva/negativa);
+- Exportação dos dados para CSV compatível com Excel. 
 
-## 🛠️ Tecnologias utilizadas
+## 🧰 Tecnologias Utilizadas
 
-- Python
-- Selenium
-- Pandas
-- Scikit-learn
-- Sentence Transformers
+- **Python**: linguagem principal do projeto.
+- **Selenium + ChromeDriver**: automação de navegador para raspagem de dados.
+- **Pandas**: manipulação e exportação de dados em formato tabular.
+- **Expressões Regulares (re)**: extração de notas das críticas.
+- **Visual Studio Code (VS Code)**: ambiente de desenvolvimento recomendado e utilizado por mim.
+- **CSV**: formato de saída dos dados coletados.
 
-## 🚀 Como executar
+
+
+## ⚙️ Como executar
 
 1. Clone o repositório:
    ```bash
