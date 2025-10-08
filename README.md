@@ -1,4 +1,4 @@
-# 🎬 ADOROCINEMA Scraper 
+# 🎬 AdoroCinema Scraper 
 
 Este projeto realiza a raspagem de críticas de filmes do site AdoroCinema (https://www.adorocinema.com), classificando-as como **positivas** ou **negativas** com base na nota atribuída pelos usuários.
 
