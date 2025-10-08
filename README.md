@@ -11,7 +11,7 @@ Este projeto realiza a raspagem de críticas de filmes do site AdoroCinema (http
 
 ## 🧰 Tecnologias Utilizadas
 
-- **Visual Studio Code (VS Code)**: ambiente de desenvolvimento recomendado e utilizado nesse trabalho.
+- **Visual Studio Code (VS Code)**: ambiente de desenvolvimento recomendado e utilizado neste trabalho.
 - **Python**: linguagem principal do projeto.
 - **Selenium + ChromeDriver**: automação de navegador para raspagem de dados.
 - **Pandas**: manipulação e exportação de dados em formato tabular.
